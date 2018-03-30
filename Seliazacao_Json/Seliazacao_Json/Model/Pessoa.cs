@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Seliazacao_Json.Modal
+namespace Seliazacao_Json.Model
 {
     [DataContract]
     public class Pessoa
